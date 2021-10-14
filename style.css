@@ -1,0 +1,19 @@
+body {
+    background: #313131b8;
+}
+
+div {
+    float: left;
+    margin: 20px;
+}
+
+span {
+    display: grid;
+    float: left;
+    margin: 20px;
+    padding-top: 10px;
+}
+
+.adds {
+    margin: 5px;
+}
